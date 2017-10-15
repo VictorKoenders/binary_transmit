@@ -1,0 +1,7 @@
+[package]
+name = "binary_transmit"
+version = "0.1.0"
+authors = ["trangar"]
+
+[dependencies]
+byteorder = "*"
